@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aikonkali
+- 👋 Hi, I’m Shiundu Zachariah 
 - 👀 I’m interested in Python, Machine Learning and Data Science, Web Development and Mobile Development.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 💞️ I’m looking to collaborate on Web development and Mobile Development projects.
